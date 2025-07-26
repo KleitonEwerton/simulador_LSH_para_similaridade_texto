@@ -1,0 +1,1 @@
+# simulador_LSH_para_similaridade_texto
